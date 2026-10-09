@@ -25,7 +25,7 @@ export default async function Privacy({ params }: Props) {
         the e-mail provider, self-hosted fonts (no Google Fonts CDN), and that no analytics or
         tracking cookies are used.
       */}
-      <p className="note-box">{d.legal.todo}</p>
+     {/*<p className="note-box">{d.legal.todo}</p>*/}
     </LegalPage>
   );
 }

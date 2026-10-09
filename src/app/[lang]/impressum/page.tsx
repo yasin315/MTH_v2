@@ -37,7 +37,7 @@ export default async function Imprint({ params }: Props) {
           <dd>{COMPANY.email}</dd>
         </div>
         {/* TODO: fill in from the current legal notice: managing director, commercial register, VAT ID, ... */}
-        <div>
+        {/*<div>
           <dt>Geschäftsführer / Managing director</dt>
           <dd>[TODO]</dd>
         </div>
@@ -48,9 +48,9 @@ export default async function Imprint({ params }: Props) {
         <div>
           <dt>USt-IdNr. / VAT ID</dt>
           <dd>[TODO]</dd>
-        </div>
-      </dl>
-      <p className="note-box">{d.legal.todo}</p>
+        </div>*/}
+      </dl> 
+      {/*<p className="note-box">{d.legal.todo}</p> */}
     </LegalPage>
   );
 }
