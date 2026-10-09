@@ -219,7 +219,7 @@ export const de = {
     back: 'Zur Startseite',
     imprintTitle: 'Impressum',
     privacyTitle: 'Datenschutzerklärung',
-    todo: 'Bitte den rechtlich geprüften Text der Firma hier einfügen. Die bisherigen Texte stehen auf der alten Website.',
+    todo: '',
   },
 };
 
