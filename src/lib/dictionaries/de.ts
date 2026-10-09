@@ -219,7 +219,7 @@ export const de = {
     back: 'Zur Startseite',
     imprintTitle: 'Impressum',
     privacyTitle: 'Datenschutzerklärung',
-    todo: '',
+    todo: "",
   },
 };
 
