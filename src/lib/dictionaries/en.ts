@@ -221,6 +221,6 @@ export const en: Dict = {
     back: 'Back to home',
     imprintTitle: 'Legal notice',
     privacyTitle: 'Privacy policy',
-    todo: "Please insert the company's legally reviewed text here. The current texts are on the old website.",
+    todo: "",
   },
 };

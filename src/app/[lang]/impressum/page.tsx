@@ -50,7 +50,7 @@ export default async function Imprint({ params }: Props) {
           <dd>[TODO]</dd>
         </div>*/}
       </dl> 
-      {/*<p className="note-box">{d.legal.todo}</p> */}
+      <p className="note-box">{d.legal.todo}</p> 
     </LegalPage>
   );
 }
